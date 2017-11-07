@@ -1,0 +1,1 @@
+java -jar dist/CS4222_Project.jar
